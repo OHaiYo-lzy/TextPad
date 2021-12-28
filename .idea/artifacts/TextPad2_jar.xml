@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextPad2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextPad2_jar</output-path>
+    <root id="archive" name="TextPad2.jar">
+      <element id="module-output" name="TextPad2" />
+    </root>
+  </artifact>
+</component>
